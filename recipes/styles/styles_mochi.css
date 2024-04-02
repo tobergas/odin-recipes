@@ -1,0 +1,27 @@
+body {
+    background-color: gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 179, 227);
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 179, 227);
+}
+
+img {
+    width: 30%;
+    height: 30%;
+}
+
+#description {
+    color: rgb(0, 0, 0);
+}
+
+.ingredients {
+    color: rgb(0, 0, 0);
+}
+
+.steps {
+    color: rgb(31, 30, 30);
+}

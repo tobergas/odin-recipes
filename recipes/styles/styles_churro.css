@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(80, 115, 212);
+}
+
+#title {
+    color: rgb(212, 177, 80);
+}
+
+#description,
+#ingredients,
+#steps {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: rgb(212, 177, 80);
+}
+
+.para,
+.header2 {
+    font-size: 20px;
+    color: black;
+}
