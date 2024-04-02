@@ -14,7 +14,7 @@ body {
     color: rgb(212, 177, 80);
 }
 
-.para,
+#description.para,
 .header2 {
     font-size: 20px;
     color: black;
